@@ -1,0 +1,9 @@
+smtp_host = ""  
+smtp_port = 25
+smtp_username = ""  
+smtp_password = ""  
+from = ""  
+to = ""  
+subject = "keepalived的vip切换邮件"  
+body = "这是一封keepalived的vip切换测试邮件"
+keep_vip = "192.168.1.6"
